@@ -1,6 +1,9 @@
-# Stargazers
+# StarGazers
 
 [Cast](Cast.md) | [Collectibles](Collectibles.md)
+
+
+[LinkedIn]({{site.linkedin}})
 
 The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.
 
@@ -11,9 +14,8 @@ Stargazers are fluent in **JavaScript**, so once you connect to their network, s
 ```js
 console.log("Take me to your leader");
 ```
-
 ---
 
 ## Disclaimer
 
-Stargazers Aliens is a fictitious company created by <a class="text-secondary" href="https://www.linkedin.com/">LinkedIn Corporation</a>, or its affiliates, solely for the creation and development of <a class="text-secondary" href="https://www.linkedin.com/learning/">educational training</a> materials. Any resemblance to real products or services is purely coincidental. Information provided about the products or services is also fictitious and should not be construed as representative of actual products or services on the market in a similar product or service category.
+Stargazers Aliens is a fictitious company created by <a href="https://www.linkedin.com/">LinkedIn Corporation</a>, or its affiliates, solely for the creation and development of <a class="text-secondary" href="https://www.linkedin.com/learning/">educational training</a> materials. Any resemblance to real products or services is purely coincidental. Information provided about the products or services is also fictitious and should not be construed as representative of actual products or services on the market in a similar product or service category.
